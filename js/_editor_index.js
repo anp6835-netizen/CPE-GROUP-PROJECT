@@ -1,0 +1,14 @@
+import * as __wonderlandengine_components from '@wonderlandengine/components';
+_registerEditor(__wonderlandengine_components);
+import * as _C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_button_veg_js from 'C:/Users/HP/OneDrive/Documents/WonderlandEngine/finalest-final-version/js/button veg.js';
+_registerEditor(_C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_button_veg_js);
+import * as _C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_button_js from 'C:/Users/HP/OneDrive/Documents/WonderlandEngine/finalest-final-version/js/button.js';
+_registerEditor(_C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_button_js);
+import * as _C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_cli_ts from 'C:/Users/HP/OneDrive/Documents/WonderlandEngine/finalest-final-version/js/cli.ts';
+_registerEditor(_C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_cli_ts);
+import * as _C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_cursor_target_js from 'C:/Users/HP/OneDrive/Documents/WonderlandEngine/finalest-final-version/js/cursor target.js';
+_registerEditor(_C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_cursor_target_js);
+import * as _C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_new_js from 'C:/Users/HP/OneDrive/Documents/WonderlandEngine/finalest-final-version/js/new.js';
+_registerEditor(_C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_new_js);
+import * as _C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_teleport_code_js from 'C:/Users/HP/OneDrive/Documents/WonderlandEngine/finalest-final-version/js/teleport code.js';
+_registerEditor(_C__Users_HP_OneDrive_Documents_WonderlandEngine_finalest_final_version_js_teleport_code_js);
